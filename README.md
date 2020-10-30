@@ -1,2 +1,2 @@
 # task-list
-create a simple list of task
+[Manage daily tasks with a simple task manager application](link)
